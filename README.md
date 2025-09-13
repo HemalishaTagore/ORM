@@ -43,7 +43,7 @@ admin.site.register(Cars_DB, Cars_DBAdmin)
 
 
 ## OUTPUT
-
+![alt text](<Screenshot (14).png>)
 
 
 
